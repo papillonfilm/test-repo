@@ -6,4 +6,12 @@
  * Time: 2:48 PM
  */
 
-$test = 1;
+$test = 2;
+
+//This is another commit
+//create forge account
+//create digital ocean account
+//upload laravel app to server thru git
+//update database
+
+
